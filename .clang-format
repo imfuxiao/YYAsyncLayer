@@ -1,0 +1,13 @@
+BasedOnStyle: LLVM
+IndentWidth: 2
+AlignTrailingComments: true
+BreakBeforeBraces: Linux
+ColumnLimit: 120
+KeepEmptyLinesAtTheStartOfBlocks: false
+MaxEmptyLinesToKeep: 2
+ObjCSpaceAfterProperty: true
+ObjCSpaceBeforeProtocolList: true
+PointerBindsToType: false
+SpacesBeforeTrailingComments: 1
+TabWidth: 2
+UseTab: Never
